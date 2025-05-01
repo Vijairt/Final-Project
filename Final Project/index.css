@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+}
+
+.container {
+  padding: 2rem;
+}
+
+input {
+  padding: 0.5rem;
+  margin-right: 0.5rem;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin: 0.25rem;
+}
+
+nav.navbar {
+  background-color: #333;
+  color: white;
+  padding: 1rem;
+}
+
+nav.navbar ul {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+  padding: 0;
+}
+
+nav.navbar li {
+  display: inline;
+}
+
+nav.navbar a {
+  color: white;
+  text-decoration: none;
+}
